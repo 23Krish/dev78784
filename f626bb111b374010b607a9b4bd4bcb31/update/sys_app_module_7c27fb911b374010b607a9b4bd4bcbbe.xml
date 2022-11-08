@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Requirements">7427fb911b374010b607a9b4bd4bcbbb</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Requirements</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_11762_krishna_requirements</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_11762_krishna.requirements_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-26 12:06:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7c27fb911b374010b607a9b4bd4bcbbe</sys_id>
+        <sys_name>Requirements</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Krishna Requirements" source="x_11762_krishna">f626bb111b374010b607a9b4bd4bcb31</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krishna Requirements">f626bb111b374010b607a9b4bd4bcb31</sys_scope>
+        <sys_update_name>sys_app_module_7c27fb911b374010b607a9b4bd4bcbbe</sys_update_name>
+        <timeline_page/>
+        <title>Requirements</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

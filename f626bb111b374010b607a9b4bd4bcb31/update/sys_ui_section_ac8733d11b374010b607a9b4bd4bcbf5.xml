@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="ac8733d11b374010b607a9b4bd4bcbf5" sys_domain="global" table="x_11762_krishna_requirements" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 12:29:29</sys_created_on>
+            <sys_id>6f7c7f591b374010b607a9b4bd4bcbc5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_11762_krishna_requirements" sys_domain="global" view="Default view">ac8733d11b374010b607a9b4bd4bcbf5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 12:29:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 12:29:29</sys_created_on>
+            <sys_id>ef7c7f591b374010b607a9b4bd4bcbc5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_11762_krishna_requirements" sys_domain="global" view="Default view">ac8733d11b374010b607a9b4bd4bcbf5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 12:29:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>string_small</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 12:29:29</sys_created_on>
+            <sys_id>637c7f591b374010b607a9b4bd4bcbc6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_11762_krishna_requirements" sys_domain="global" view="Default view">ac8733d11b374010b607a9b4bd4bcbf5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 12:29:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name_value_pairs</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 12:29:29</sys_created_on>
+            <sys_id>e37c7f591b374010b607a9b4bd4bcbc6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_11762_krishna_requirements" sys_domain="global" view="Default view">ac8733d11b374010b607a9b4bd4bcbf5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 12:29:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>data_structure</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 12:29:29</sys_created_on>
+            <sys_id>677c7f591b374010b607a9b4bd4bcbc6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_11762_krishna_requirements" sys_domain="global" view="Default view">ac8733d11b374010b607a9b4bd4bcbf5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-26 12:29:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_11762_krishna_requirements</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-26 12:07:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac8733d11b374010b607a9b4bd4bcbf5</sys_id>
+            <sys_name>x_11762_krishna_requirements</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Krishna Requirements" source="x_11762_krishna">f626bb111b374010b607a9b4bd4bcb31</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Krishna Requirements">f626bb111b374010b607a9b4bd4bcb31</sys_scope>
+            <sys_update_name>sys_ui_section_ac8733d11b374010b607a9b4bd4bcbf5</sys_update_name>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">037685971b310010b607a9b4bd4bcbc1</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-26 12:06:05</sys_created_on>
+        <sys_id>c9273f911b374010b607a9b4bd4bcb2d</sys_id>
+        <sys_package display_value="Krishna Requirements" source="x_11762_krishna">f626bb111b374010b607a9b4bd4bcb31</sys_package>
+    </sys_package_dependency_m2m>
+</record_update>

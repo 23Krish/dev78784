@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="cad6f7911b374010b607a9b4bd4bcb08" extends="task" label="Requirements" max_length="40" name="x_11762_krishna_requirements" type="collection">
+        <element label="Conditions" max_length="4000" name="conditions" type="conditions"/>
+        <element label="Data Structure" max_length="800" name="data_structure" type="data_structure"/>
+        <element attributes="edge_encryption_enabled=true" label="Journal Input" max_length="40" name="journal_input" type="journal_input"/>
+        <element label="Name Value Pairs" max_length="40" name="name_value_pairs" type="simple_name_values"/>
+        <element label="Small String" max_length="40" name="small_string" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="String Small" max_length="40" name="string_small" type="string"/>
+    </element>
+</database>

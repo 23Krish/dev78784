@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Requirements</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Requirements</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">c37685971b310010b607a9b4bd4bcbc3</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-26 12:06:05</sys_created_on>
+        <sys_id>89273f911b374010b607a9b4bd4bcb24</sys_id>
+        <sys_name>Requirements</sys_name>
+        <sys_package display_value="Krishna Requirements" source="x_11762_krishna">f626bb111b374010b607a9b4bd4bcb31</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krishna Requirements">f626bb111b374010b607a9b4bd4bcb31</sys_scope>
+        <sys_update_name>sys_wizard_answer_89273f911b374010b607a9b4bd4bcb24</sys_update_name>
+        <table/>
+        <target_url>x_11762_krishna_requirements.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
